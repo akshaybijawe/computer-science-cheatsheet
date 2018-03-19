@@ -7,7 +7,7 @@
    2. **Insert** mode: Any text typed is inserted in the file.  
 
 #### List of commands:  
-1. **vi** filename: edit filename starting at i.
+1. **vi** filename: edit filename starting at line number 1.
 2. **vi** -r filename: recover filename that was being edited when system crashed. 
 
 
