@@ -6,8 +6,9 @@
    1. **Command** mode: It causes an action to be taken on the file which is being edited.  
    2. **Insert** mode: Any text typed is inserted in the file.  
 
-#### List of commands in no particular order:  
+#### List of commands:  
 1. **vi** filename: edit filename starting at i.
 2. **vi** -r filename: recover filename that was being edited when system crashed. 
+
 
 
